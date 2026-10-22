@@ -1,0 +1,10 @@
+series,role,n_samples,min_h,max_h,hyperacute,acute,early subacute,late subacute,chronic
+GSE125512 (ICH),primary cohort,22,24.0,72.0,0,2,0,0,0
+GSE158312 (ischemic),primary cohort,24,25.5,60.0,0,17,0,0,0
+GSE16561 (ischemic),primary cohort,63,24.0,24.0,0,1,0,0,0
+GSE296792 (ICH),primary cohort,77,24.0,168.0,0,2,1,0,0
+GSE37587 (ischemic),primary cohort,68,24.0,48.0,0,2,0,0,0
+GSE58294 (ischemic),primary cohort,92,3.0,24.0,2,1,0,0,0
+"GSE163256 (ICH, sorted cells)",cell-sorted,342,23.0,171.0,1,63,3,0,0
+"GSE22255 (past ischemic, PBMC)",chronic comparator,40,8766.0,70128.0,0,0,0,0,3
+GSE73378 (past aSAH),chronic comparator,210,17532.0,17532.0,0,0,0,0,1

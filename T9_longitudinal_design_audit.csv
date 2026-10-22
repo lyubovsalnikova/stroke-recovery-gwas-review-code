@@ -1,0 +1,7 @@
+GEO_id,n_samples,n_subjects,stroke_type,distinct_times_h,max_time_h,n_subjects_all_timepoints,reaches_recovery_window_168h,has_any_clinical_outcome_column
+GSE125512,22,11,hemorrhagic_stroke,24.0;72.0,72.0,11,False,False
+GSE158312,24,24,ischemic_stroke,25.5;35.0;35.5;40.0;40.5;42.0;46.0;46.5;47.0;48.5;48.8;49.8;50.0;56.5;58.5;59.0;60.0,60.0,0,False,False
+GSE16561,63,63,ischemic_stroke,24.0,24.0,39,False,False
+GSE296792,77,27,hemorrhagic_stroke,24.0;72.0;168.0,168.0,23,True,False
+GSE37587,68,34,ischemic_stroke,24.0;48.0,48.0,33,False,False
+GSE58294,92,46,ischemic_stroke,3.0;5.0;24.0,24.0,23,False,False

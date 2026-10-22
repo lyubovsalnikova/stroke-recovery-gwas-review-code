@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or the reporting checklist, please cite the article below."
+title: "stroke-recovery-gwas-review-code: simulation, figures and reporting checklist for 'From Genetic Discovery to Clinical Utility in Stroke Recovery'"
+version: "1.0"
+license: MIT
+authors:
+  - family-names: "Salnikova"
+    given-names: "Lyubov E."
+  - family-names: "Kashatnikova"
+    given-names: "Daria A."
+  - family-names: "Kuzovlev"
+    given-names: "Artem N."
+preferred-citation:
+  type: article
+  title: "From Genetic Discovery to Clinical Utility in Stroke Recovery: Collider Bias, Phenotype Coupling, and Data Limitations"
+  journal: "Frontiers in Neurology"
+  year: 2026
+  authors:
+    - family-names: "Salnikova"
+      given-names: "Lyubov E."
+    - family-names: "Kashatnikova"
+      given-names: "Daria A."
+    - family-names: "Kuzovlev"
+      given-names: "Artem N."

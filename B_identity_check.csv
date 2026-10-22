@@ -1,0 +1,4 @@
+index,sd_24h,sd_168h,rho_24h_168h,observed_r_baseline_vs_change,identity_value,equal_variance_null,nonoverlapping_r,nonoverlapping_p
+INFL_acute_up_31,0.367,0.455,0.48,-0.348,-0.349,-0.51,0.28,0.195
+LYMPH_acute_down_20,0.328,0.5,0.087,-0.496,-0.496,-0.676,0.017,0.938
+REPAIR_recovery_robust_up_259,0.353,0.428,0.539,-0.322,-0.321,-0.48,0.203,0.354

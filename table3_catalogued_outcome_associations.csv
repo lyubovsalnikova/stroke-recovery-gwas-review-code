@@ -1,0 +1,11 @@
+accession,study,phenotype,n_catalogued,n_genome_wide,n_suggestive,genome_wide_loci,lead_association
+GCST006935,Mola-Caminal (PMID 30582445),3-month functional outcome in ischaemic stroke (modified Rankin score),1,1,0,"PATJ (rs76221407-?, p = 2e-09)","PATJ (rs76221407-?, p = 2e-09)"
+GCST007672,Söderholm (PMID 30796134),3-month functional outcome in ischaemic stroke (modified Rankin score),17,0,17,none,"CPNE8-AS1,LINC02406 (rs61937587-G, p = 5e-07)"
+GCST007673,Söderholm (PMID 30796134),3-month functional outcome in ischaemic stroke (modified Rankin score),19,0,19,none,"NAALADL2 (rs13326866-G, p = 3e-07)"
+GCST007674,Söderholm (PMID 30796134),3-month functional outcome in lacunar ischaemic stroke (modified Rankin score),2,0,2,none,"BTBD3,PA2G4P2 (rs59640442-C, p = 2e-06)"
+GCST007675,Söderholm (PMID 30796134),3-month functional outcome in non-lacunar ischaemic stroke (modified Rankin score),5,0,5,none,"LGMNP1,STARP1 (rs116902978-G, p = 6e-07)"
+GCST007676,Söderholm (PMID 30796134),3-month functional outcome in ischaemic stroke (modified Rankin score),18,0,18,none,"LINC01894,LINC01915 (rs1842681-A, p = 1e-07)"
+GCST90239734,Ibanez (PMID 35213696),Early neurological instability after acute ischemic stroke,4,0,4,none,"GRIA1 (rs17115057-T, p = 6e-08)"
+GCST90239735,Ibanez (PMID 35213696),Early neurological instability after acute ischemic stroke,4,0,4,none,"RNU6ATAC37P,LINC01871 (rs58763243-G, p = 8e-08)"
+GCST90239736,Ibanez (PMID 35213696),Early neurological instability after acute ischemic stroke,6,3,3,"RN7SL299P,DISC1 (rs9660272-T, p = 2e-10); HIGD1AP2,PTMAP5 (rs9545725-A, p = 2e-08); OLFM3,COL11A1 (rs1451040-T, p = 3e-08)","RN7SL299P,DISC1 (rs9660272-T, p = 2e-10)"
+GCST90239737,Ibanez (PMID 35213696),Early neurological instability after acute ischemic stroke,2,0,2,none,"TENM3-AS1,LINC02500 (rs12641856-A, p = 2e-07)"

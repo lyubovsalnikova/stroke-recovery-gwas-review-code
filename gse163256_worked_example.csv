@@ -1,0 +1,16 @@
+block,quantity,value,ci_low,ci_high,n
+A_severity_outcome,spearman_nihss_vs_mRS1y,0.32628062381358186,-0.07031224077426798,0.6257041086504648,21
+A_severity_outcome,spearman_gcs_vs_mRS1y,-0.450348269056189,-0.7550940557360966,-0.00879978295647152,21
+A_severity_outcome,spearman_ich_volume_vs_mRS1y,0.3276818685282782,-0.1853753028729496,0.8051060040043577,21
+A_severity_outcome,spearman_severity_idx_vs_mRS1y,-0.170413773429685,-0.6109250378369342,0.30128861750106195,21
+B_change_score_identity,r_first_last,0.30210839485929,,,14
+B_change_score_identity,r_baseline_change_observed,-0.6695320673380504,,,14
+B_change_score_identity,r_baseline_change_oldham,-0.6695320673380505,,,14
+B_change_score_identity,r_rtm_equal_variance,-0.5907163469638833,,,14
+B_change_score_identity,median_hours_first,60.5,,,14
+B_change_score_identity,median_hours_last,121.5,,,14
+C_score_outcome,spearman_unadjusted,-0.2823223369181917,-0.6342375858669439,0.13087579435470142,20
+C_score_outcome,ols_slope_unadjusted,-1.0599845940367487,-2.5832607941405072,0.46329160606701003,20
+C_score_outcome,ols_slope_adj_nihss,-0.8142723282549542,-2.547890559765295,0.919345903255387,20
+C_score_outcome,ols_slope_adj_ich_volume,-1.0491799147993608,-2.5920460743860434,0.4936862447873218,20
+C_score_outcome,ols_slope_adj_nihss+ich_volume,-0.8818438494382409,-2.6673852646281793,0.9036975657516974,20
